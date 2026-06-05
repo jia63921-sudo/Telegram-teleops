@@ -1,4 +1,4 @@
-# TeleOps Assistant 电报运营助手
+# TeleOps Assistant 电报频道/群组运营助手
 
 TeleOps Assistant 是一款面向 Telegram 内容运营场景的 Windows 桌面工具，适合用于自有频道、群组或已获授权素材的整理、搬运、发布和广告投放。软件重点解决多账号、多频道、多任务并行运营时的效率、稳定性和可追踪性问题。
 
